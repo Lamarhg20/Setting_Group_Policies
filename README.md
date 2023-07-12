@@ -7,7 +7,7 @@ How to set group policies in windows active directory with win server 2019
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>Virtual Box</b> 
 
 <h2>Environments Used </h2>
 
